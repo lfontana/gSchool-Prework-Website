@@ -1,0 +1,58 @@
+
+
+h1 {
+	margin: 1em 0 0.5em 0;
+	font-weight: 600;
+	font-family: 'Arial Black', sans-serif;
+	position: relative;  
+	font-size: 40px;
+	line-height: 40px;
+	padding: 20px 20px 40px 30%;
+	color: black;
+	border-radius: 0 10px 0 10px;
+	background: #fff url(http://wikitravel.org/upload/shared//5/57/Montana_Banner.jpg) no-repeat center left;
+}
+
+img {
+  height: 264px;
+  width: 380px;
+}
+
+body {
+	padding: 10px 10px;
+	font-family: sans-serif;
+	max-width: 2000px;
+	margin: 0 auto; 
+	font-size: 16px;
+} 
+
+li {
+	font-size: 18px;
+	line-height: 24px;
+  font-weight: bold;
+}
+
+.title {
+	background-color: #294230;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+.description {
+	font-size: 20px;
+  font-weight: lighter;
+}
+
+section {
+  float: left;
+  margin: 0 1.5%;
+  width: 70%;
+}
+aside {
+  float: right;
+  margin: 0 1.5%;
+  width: 20%;
+}
+
